@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6330602342898d647930f29014deff70
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Earth: {fileID: 8066947059193692483, guid: 35186a970a539ce4a9db679c4da91f23, type: 3}
+  - Stone: {fileID: 7042888572810596271, guid: e498740f26e9f1a44af0fb829719988c, type: 3}
+  - EarthGrass: {fileID: 211163504479617995, guid: 9078660a778a7214281a24e18c77219b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
